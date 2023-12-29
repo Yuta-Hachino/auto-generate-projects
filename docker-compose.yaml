@@ -4,7 +4,9 @@ services:
     build: "./"
     tty: true
     volumes:
-      - ./main.go:/app/main.go
+      - ./:/app/
     ports:
       - "1323:1323"
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/storage-cred.json
     command: sh -c 'go mod tidy && air'

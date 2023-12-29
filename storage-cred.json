@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arctic-cocoa-409514",
+  "private_key_id": "494d86d7388b38cbe02cbbcf01bec502a08d8d84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPBDntaL1gF8d8\ny6q8Z3e15YB/MzFzWMatMQ57Z3F8Cq+/KXa1QPo7Iijo7uObDUBW4W5f6Wqy4ZSm\nML6Gw6SLY8xC510+bBSjl5pnIQ+RhiD2dJJ+Og6T0hnxOBsU7Q02RMMj6higXNT4\n7qg7lKYBRgVMiNDPz64COgZj4ugWefoBQIy+5KfnF7JC4hLDPEqwyqPym7wqjkDa\nTlMu7xgmhgaSwv/YfHeyYPtDmh0l5TSE07AKEazDe27KpBO9ZM3V6QVsRm4N5Ktv\nNETitScDUyUYGJ8t4QHfR2I8NoeV4WuHOjoMbNXghQ/OiCHnk7eGhxWjsLL9Z/al\nxK9wUZ4vAgMBAAECggEAHVkhCTo/Fr9oRZXuF5Wnj/8AT4gna43bZLQ+tFn+6bHu\nJnCvZpTWpMl7+UHcvJ+NToPZDPnfaYq3czQX3q0fx68XRyjbvDzAVEzq09IJDf1w\n8N+n4QNEC8rOaLcmh7nvlJD9BTtr0Fg4zS2wZfn16tpNaANBbySnK6OkQkbp1j2l\nBtsmhUWODQhRfmlWv38hXhzkyYhzN/69Jo0jvVRfoExUBpiildSr7SGmnktyGKqu\neyxKNs2SCZyn26wgqpeZ9AHoz8pQdPUfhfeH4LjUwoyphNMnQqSHX3g61KJI0tlF\nTiURHKp1wSAIg7qD5ZWngH3P1huVZX/0oJ9HScut2QKBgQD/XuUyqEZefu6dEZnn\n/chLOkuDRlAxwrnyUt+FfVwkcuvtdoPspsdflv/63JSf3tZlly7fOQj8yMWSs/UC\nCxN9Djiu7CN2T4jsWjgMKd+paRc2KEjMn47k2PBwDuvTzAXPsHpSU+iEEPu27M5P\n17qUNwbU79t5u44xsdNkI8itowKBgQDPhtNyi1VCzi5bysmN279ONEc5Z4PP1AiE\nRyuCfLIWtCBwtIRBxj3SUbnlbdNNt5CqArN2qKV4s6+QhxpMVpWiIP5f4IPzDU+V\nAVaL3yQypXbeVgtkEmQF0yDnvOXQ773KpBGC/gvYCRL8sbL/Yn5fyVyW5GXy0/wn\nFSy6x1B+BQKBgQD+8io3zK+UH3zw6mWQqliQYf6JbGUbiKBDQGFOz7xx1xma1LsY\nQ9i/oeyk8hqfEMVSXwC4ciR62aYFtAtiotQuAUituaodr4GvFNLnsdZNN1GpC8bC\nInlyFvLTrNHbfNBAbJtyHbsAPkROd1PxehoXZmg3pc6jVY+8JSA51U+/qQKBgEie\nYF2DvjkbVwON6Yu3arEeABJpU6mlA7nuAZ6urc7eB0AJGwK9MSLosElFbhyS8I9d\nVJlgGE8taXEEpcIyxjeunfTE5sdlUATPLA7T7aG/XuIcb+37tX6IS8prwmujiOFh\nGjOhXFmjiz5bnExbledE2h5/G+GmJmUytq1BU7xVAoGBALPMot+FYHBHm3K40ZJl\nk/CeGotdxyvikwHgAJLR1V38gMGdnMQml/RJvljsRQurcudbkEwMeJkpq8X0p1MJ\nux35SyCiedEsey/PAVHpYKxbLCJdMDUX5at4Ls0y2sylDkOnnGXSDF3dyk8uFb6z\n5Y1wR/9nEnTSKb9fZxv2hB4X\n-----END PRIVATE KEY-----\n",
+  "client_email": "auto-generate-projects@arctic-cocoa-409514.iam.gserviceaccount.com",
+  "client_id": "111733172082922269198",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/auto-generate-projects%40arctic-cocoa-409514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

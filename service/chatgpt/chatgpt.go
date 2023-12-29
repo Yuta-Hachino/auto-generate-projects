@@ -8,7 +8,7 @@ import (
 )
 
 func SendMessage(message string) (string, error) {
-	client := openai.NewClient("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")
+	client := openai.NewClient("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")
 
 	resp, err := client.CreateChatCompletion(
 		context.Background(),

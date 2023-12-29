@@ -1,4 +1,13 @@
-### crypt
+### status
 GET /
 Content-Type: application/json
 Host: localhost:1323
+
+### chatgpt
+POST /generate/project
+Content-Type: application/json
+Host: localhost:1323
+
+{
+  "message": "ESPv2をWebサーバーにしたGoのAPI"
+}
