@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  golang:
+    build: "./"
+    tty: true
+    volumes:
+      - ./main.go:/app/main.go
+    ports:
+      - "1323:1323"
+    command: sh -c 'go mod tidy && air'
